@@ -1,1 +1,15 @@
+Clean code ch1:
+•	Messy code is a significant impediment.
+•	Writing code with a mess and deciding to clean it later after finishing the program will take extra time than fixing this mess at once.
+•	The only way to go fast is to keep the code clean.
+•	Making any change in a code with a mess will increase this mess and will be difficult or almost impossible to clear it.
+•	Bad code tempts the mess to grow.
+•	Bad code makes the concept of the program unclear. However ,clean code is focused and never obscures the programmer’s intent.
+•	In clean code, each function and class exposes a single minded attitude that remains undistracted by the surrounding details.
+•	Clean code should contain only what’s necessary so it’s readable and easy to be perceived.
+•	Clean code Is easy for other programmer to change and features to it.
+•	Clean code must run all the tests.
+•	Clean code must contain no duplication.
+•	Any code even if it’s a clear code rots over time, so could should be maintained over time.
+ 
 

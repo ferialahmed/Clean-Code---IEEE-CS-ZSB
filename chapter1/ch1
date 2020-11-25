@@ -10,6 +10,6 @@ Clean code ch1:
 •	Clean code Is easy for other programmer to change and features to it.
 •	Clean code must run all the tests.
 •	Clean code must contain no duplication.
-•	Any code even if it’s a clear code rots over time, so could should be maintained over time.
+•	Any code even if it’s a clear code rots over time, so it should be maintained over time.
  
 

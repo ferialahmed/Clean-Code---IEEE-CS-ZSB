@@ -1,0 +1,16 @@
+Chapter2:Meaningful name
+
+•	Choosing meaningful name that make it much easier for readers and other developers to know what’s this name for, it’s  also easy to understand and change code.
+
+•	Avoid confusing name and names which doesn’t imply anything.
+
+•	Avoid distinguishing between variables using number at the end of the variable name(list1,list2) as it’s hard to understand what it refers to.
+
+•	Choose searchable name which are easy to be found, so avoid using single letters that might be repeated in many other words. 
+
+•	It’s better for class name to be noun, while for function name it’s better to be verb.
+
+•	Avoid using same name to refer to two different thing.
+
+•	Avoid using too long names or too short names.
+

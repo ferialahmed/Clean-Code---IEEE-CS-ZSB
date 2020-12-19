@@ -1,0 +1,13 @@
+Chapter 3:
+•	Functions should be small.
+•	Function should do one thing.
+•	Avoid using switch statement as much as possible.
+•	Use descriptive names describe what the function does.
+•	Ideal number of arguments for a function is zero then one then two.
+•	Avoid using more than two arguments.
+•	There are two reasons to pass a single argument into a function which are asking a question about the argument or operating on that argument, transforming it into something else and return it. 
+•	Avoid using any monadic functions that don’t follow the previous reasons.
+•	Avoid passing flag arguments.
+•	It’s preferable using Exceptions instead of Returning error codes from command function.
+•	There should be one return statement, no break or continue and never ever goto statements.
+

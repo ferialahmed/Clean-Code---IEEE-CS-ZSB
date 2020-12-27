@@ -1,1 +1,14 @@
+Chapter4
+•	Clear and expressive code with few comments is far superior to cluttered and complex code with lots of comments.
+•	Rather than spend your time writing the comments that explain the mess you’ve made, spend it cleaning that mess.
+•	It is useful to provide basic information with a comment.
+•	Comments can provide the intent behind decision rather than provides information.
+•	 it is helpful to translate the meaning of some obscure argument or return value into something that's readable. 
+•	Comments can be written to warn other programmers about certain consequences.
+•	comments can be used to amplify the importance of something that may seem inconsequential.
+•	writing comments  just because you feel you should or because the process requires it, is a hack. 
+•	If you decide to write a comment, then spend the time necessary to make sure it is the best comment you can write. 
+•	It’s not preferable to write Closing Brace Comments
+•	When you  write a comment, make sure it describes the code it appears near. Don't offer systemwide  information in the context of a local comment.
+•	Short functions don’t need much description. A well-chosen name for a small function that does one thing is usually better than a comment header.
 

@@ -1,0 +1,14 @@
+Chapter 5:
+•	The source file should be like a newspaper, where the name should be simple but explanatory.
+•	The topmost parts of the source file should provide the high-level concepts and algorithms.
+•	Each group of lines that represent a complete thought should be separated from each other with blank lines.
+•	Lines of code that are tightly related should appear vertically dense.
+•	Variables should be declared as close to their usage as possible.
+•	Local variable should appear at the top of each function.
+•	Control variables for loops should usually be declared within the loop statement.
+•	Instance variable should be declared at the top of the class.
+•	If one function calls another, they should be vertically close and the caller should be above the callee.
+•	Each line of code should be short, following the rule of never scrolling to the right.
+•	The assignment operators should be surrounded with white space to accentuate them. 
+•	The function name and the opening parenthesis shouldn’t be separated by white spaces, as the function name and its arguments are closely related.
+
